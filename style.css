@@ -18,3 +18,10 @@ body {
   height: 500px;
   margin-top: 80px;
 }
+
+#licoes_aprendidas {
+  border: 1px solid black;
+  width: 15%;
+  background-color: blueviolet;
+  font-size: large;
+}
