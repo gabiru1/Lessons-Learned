@@ -31,3 +31,7 @@ body {
   background-color: blueviolet;
   font-size: large;
 }
+
+#rodape {
+  border: 5px solid blueviolet;
+}
