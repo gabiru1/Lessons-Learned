@@ -19,6 +19,12 @@ body {
   margin-top: 80px;
 }
 
+#titulo_lista {
+  border: 1px solid black;
+  width: 19%;
+  background-color: darkmagenta;
+}
+
 #licoes_aprendidas {
   border: 1px solid black;
   width: 15%;
