@@ -9,3 +9,7 @@ body {
   width: 98%;
   top: 0;
 }
+
+#titulo {
+  margin-left: 10px;
+}
