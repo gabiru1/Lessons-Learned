@@ -35,3 +35,24 @@ body {
 #rodape {
   border: 5px solid blueviolet;
 }
+
+#links1 {
+  border: 1px solid black;
+  width: 15%;
+  text-align: center;
+}
+
+#links2 {
+}
+
+#links3 {
+  border: 1px solid black;
+  width: 90px;
+  background-color: blueviolet;
+  margin-left: 18%;
+  margin-bottom: 15%;
+}
+
+a {
+  color: beige;
+}
