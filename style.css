@@ -13,3 +13,8 @@ body {
 #titulo {
   margin-left: 10px;
 }
+
+#minha_foto {
+  height: 500px;
+  margin-top: 80px;
+}
