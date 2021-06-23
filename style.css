@@ -15,19 +15,32 @@ body {
 }
 
 #minha_foto {
-  height: 500px;
+  height: 400px;
   margin-top: 80px;
 }
 
 #titulo_lista {
   border: 1px solid black;
-  width: 19%;
+  width: 230px;
   background-color: darkmagenta;
 }
 
 #licoes_aprendidas {
   border: 1px solid black;
-  width: 15%;
+  width: 190px;
+  background-color: blueviolet;
+  font-size: large;
+}
+
+#licoes_futuras {
+  border: 1px solid black;
+  width: 230px;
+  background-color: darkmagenta;
+}
+
+#licoes_a_aprender {
+  border: 1px solid black;
+  width: 190px;
   background-color: blueviolet;
   font-size: large;
 }
@@ -38,11 +51,12 @@ body {
 
 #links1 {
   border: 1px solid black;
-  width: 15%;
+  width: 150px;
   text-align: center;
 }
 
 #links2 {
+
 }
 
 #links3 {
@@ -53,6 +67,6 @@ body {
   margin-bottom: 15%;
 }
 
-a {
+.links4 {
   color: beige;
 }
